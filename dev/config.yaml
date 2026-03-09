@@ -1,1 +1,3 @@
-
+environment: dev
+database: dev-db.company.com
+api_url: https://dev-api.company.com
